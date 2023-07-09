@@ -1,0 +1,15 @@
+.app {
+  min-height: 100vh;
+
+  display: flex;
+  background-image: url("../public/assets/background1.jpg");
+   background-size:cover;
+
+  background-repeat: no-repeat;
+  background-position: center; 
+ 
+}
+
+::-webkit-scrollbar{
+  width: 0;
+}
